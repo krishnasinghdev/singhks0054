@@ -33,5 +33,7 @@ Krishna's work process is designed to ensure that his clients get the highest po
 Are you ready to take your web development project to the next level? 
 
 Let's connect with Krishna Singh and take it beyond! 
+
 🔗 https://wd.evenbeam.com/
+
 📨 singhks0054@gmail.com
