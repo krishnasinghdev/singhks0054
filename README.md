@@ -1,39 +1,27 @@
-👋 Meet Krishna Singh, a third-year BCA student at FMT HCPG Varanasi who is passionate about web development. 🌐
+# 💫 About Me:
+𝐊𝐫𝐢𝐬𝐡𝐧𝐚 𝐒𝐢𝐧𝐠𝐡 | 𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 | 𝐍𝐞𝐱𝐭.𝐣𝐬 13 | 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒 | 𝐍𝐨𝐝𝐞𝐉𝐒<br><br>👋 Hello! I'm Krishna Singh, a passionate Full-stack Developer with a strong command over the MERN (MongoDB, Express.js, React, Node.js) stack. With a successful journey spanning approximately 3 years, I thrive on bringing dynamic web solutions to life.<br><br>🚀 As a pivotal part of the Even Beam web development agency, I contribute to crafting innovative and user-centric websites and applications. Leveraging my proficiency in the MERN stack, I've undertaken a spectrum of roles, from 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐀𝐏𝐈𝐬 to 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐚𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧 𝐥𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬, all while ensuring peak performance and scalability.
 
-Krishna has been exploring web development programs since the start of college, and now focuses on creating awesome projects to improve his skills. He started learning on YouTube and later switched to Udemy. Additionally, he has participated in various hackathons and webinars to better understand the concepts and collaborated with other developers to grow and learn. Krishna stays up-to-date with evolving technologies and trends in web development and is constantly updating himself.
 
-Here are some highlights of his experience:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/singhks0054) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/singhks0054) 
 
-💼 Nearly 2 year experience as a MERN Stack Developer
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=singhks0054&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=singhks0054&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=singhks0054&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-💻 Expertise in ReactJS, NextJS, Tailwind CSS, NodeJS, MongoDB, and more
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=singhks0054&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🤝 Experience of collaborating with startups
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🎨 Integrating animation libraries and other libraries
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=singhks0054&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-👨‍💻 Skilled in Frontend, Backend, and Full-Stack Development
+---
+[![](https://visitcount.itsvg.in/api?id=singhks0054&icon=1&color=7)](https://visitcount.itsvg.in)
 
-💡 A creative, flexible, and energetic approach
-
-👨‍🎓 Dedicated to staying up-to-date on new techniques and trends related to the development
-
-Krishna's work process is designed to ensure that his clients get the highest possible results.
-
-🤝 Step 1: Krishna always starts with an introductory meeting with the client to understand their requirements and gather all available briefs. This helps him get a clear picture of what his clients want and helps him plan the project accordingly.
-
-📧 Step 2: He is always available to resolve any queries via one-to-one meetings or emails/chats. This ensures that there is no communication gap between him and his clients.
-
-📅 Step 3: Krishna defines milestones for the entire project/payment and initiates the work accordingly. This helps his clients track the progress of their projects and ensures that the project is completed on time.
-
-📝 Step 4: He presents milestones (the whole project) with drafts and revisions as per client feedback. This ensures that his clients are satisfied with the work done and also helps him make any necessary changes to the project.
-
-👍 Step 5: Once the wireframe and document are in order, Krishna submits the final creative to his clients. This ensures that his clients get the finest possible results and also helps him build trust and credibility with them.
-
-Are you ready to take your web development project to the next level? 
-
-Let's connect with Krishna Singh and take it beyond! 
-
-🔗 https://wd.evenbeam.com/
-
-📨 singhks0054@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
