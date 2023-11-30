@@ -21,6 +21,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=singhks0054&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<img src="https://raw.githubusercontent.com/singhks0054/singhks0054/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=singhks0054&icon=1&color=7)](https://visitcount.itsvg.in)
 
