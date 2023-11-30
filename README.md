@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 | 𝐍𝐞𝐱𝐭.𝐣𝐬 13 | 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒 | 𝐍𝐨𝐝𝐞𝐉𝐒<br><br>👋 Hello! I'm Krishna Singh, a passionate Full-stack Developer with a strong command over the MERN (MongoDB, Express.js, React, Node.js) stack. With a successful journey spanning approximately 3 years, I thrive on bringing dynamic web solutions to life.<br><br>🚀 As a pivotal part of the Even Beam web development agency, I contribute to crafting innovative and user-centric websites and applications. Leveraging my proficiency in the MERN stack, I've undertaken a spectrum of roles, from 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐀𝐏𝐈𝐬 to 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐚𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧 𝐥𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬, all while ensuring peak performance and scalability.</p>
+<p align="left">𝐅𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 | 𝐍𝐞𝐱𝐭.𝐣𝐬 13 | 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒 | 𝐍𝐨𝐝𝐞𝐉𝐒<br><br>👋 Hello! I'm Krishna Singh, a passionate Full-stack Developer with a strong command over the MERN (MongoDB, Express.js, React, Node.js) stack. With a successful journey spanning approximately 3 years, I thrive on bringing dynamic web solutions to life.<br><br>🚀 As a pivotal part of the Even Beam, I contribute to crafting innovative and user-centric websites and applications. Leveraging my proficiency in the MERN stack, I've undertaken a spectrum of roles, from 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐀𝐏𝐈𝐬 to 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐧𝐠 𝐚𝐧𝐢𝐦𝐚𝐭𝐢𝐨𝐧 𝐥𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬, all while ensuring peak performance and scalability.</p>
 
 ###
 
@@ -124,13 +124,17 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats </h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=singhks0054&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="left">😎 Contributions with Fun</h3>
 
 ###
 
